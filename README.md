@@ -20,7 +20,7 @@
 <h2>Links</h2>
 <p>My website: https://danielmakokha.github.io/DanSec.github.io/</p>
 <p>Resume pdf: https://danielmakokha.github.io/Resumepdf.github.io/</p>
-<p>Email:danielmakokhan@gmail.com</p>
+<p>Email:<a href="mailto:danielmakokhan@gmail.com">danielmakokhan@gmail.com</a></p>
 <p>Skills: C/C++, Java, Python,PHP, JavaScript, SQL, HTML/CSS</p>
 <hr/>
 
