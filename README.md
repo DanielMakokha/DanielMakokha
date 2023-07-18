@@ -11,7 +11,7 @@
 <hr/>
 - 🔭 I’m currently working on [Login System](https://github.com/DanielMakokha/LoginSytem)
 
-- 🌱 I’m currently learning **react,node,kotlin**
+- 🌱 I’m currently learning **react,node,Mongo DB**
 
 - 👯 I’m looking to collaborate on [EDAChicagoCrashData](https://github.com/brianyu2/EDAChicagoCrashData)
 <br/>
