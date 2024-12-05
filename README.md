@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danielmakokha" alt="danielmakokha" /></a> </p>
 
-<p align="left"> <a href="https://x.com/anonymode1" target="blank"><img src="https://img.shields.io/twitter/follow/gurutech_dan?logo=twitter&style=for-the-badge" alt="gurutech_dan" /></a> </p>
+<p align="left"> <a href="https://x.com/anonymode1" target="blank"><img src="https://img.shields.io/twitter/follow/anonymode1?logo=twitter&style=for-the-badge" alt="anonymode1" /></a> </p>
 <hr/>
 
 <br/>
