@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danielmakokha" alt="danielmakokha" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/gurutech_dan" target="blank"><img src="https://img.shields.io/twitter/follow/gurutech_dan?logo=twitter&style=for-the-badge" alt="gurutech_dan" /></a> </p>
+<p align="left"> <a href="https://x.com/anonymode1" target="blank"><img src="https://img.shields.io/twitter/follow/gurutech_dan?logo=twitter&style=for-the-badge" alt="gurutech_dan" /></a> </p>
 <hr/>
 - 🔭 I’m currently working on [Login System](https://github.com/DanielMakokha/LoginSytem)
 
@@ -27,8 +27,8 @@
 <p align="left">
 <a href="https://x.com/anonymode1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gurutech_dan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/daniel-makokha-38709020b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel-makokha-38709020b" height="30" width="40" /></a>
-<a href="https://instagram.com/dantech_guru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dantech_guru" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/dantech_guru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dantech_guru" height="30" width="40" /></a>
+<a href="nstagram.com/anonymode1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dantech_guru" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@anonymode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dantech_guru" height="30" width="40" /></a>
 </p>
 <hr/>
 
